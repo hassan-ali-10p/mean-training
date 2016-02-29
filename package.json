@@ -1,0 +1,17 @@
+{
+"name": "hello-app",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "~3.0.0",
+        "mongoose": "~4.0.1",
+        "bluebird": "~2.9.24",
+        "body-parser": "latest",
+        "mysql": "~2.0.0-rc2",
+        "knex": "~0.7.6",
+        "assent": "~0.0.2",
+        "express-validation": "latest",
+        "cookie-parser": "latest",
+        "storehouse": "git+https://github.com/mideveloper/storehouse.git"
+    }
+}
